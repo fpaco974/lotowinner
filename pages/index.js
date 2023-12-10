@@ -11,10 +11,11 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="Welcome to my app!" />
-        <p className="description">
-          Get started by editing <code>pages/index.js</code>
-        </p>
+        <iframe
+          src="https://gamma.app/embed/wi854kfuq7j7sw2"
+          style={{ width: '100%', height: '100vh', border: 'none' }}
+          allowFullScreen
+        ></iframe>
       </main>
 
       <Footer />
