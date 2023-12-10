@@ -13,8 +13,8 @@ export default function Home() {
       <main>
         <iframe
           src="https://gamma.app/embed/wi854kfuq7j7sw2"
-          style={{ width: '100%', height: '100vh', border: 'none' }}
-          allowFullScreen
+        style="width: 700px; max-width: 100%; height: 450px" 
+          allow="fullscreen"
         ></iframe>
       </main>
 
